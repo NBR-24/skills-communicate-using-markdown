@@ -1,7 +1,7 @@
 # Hello everyone
 ## Halo world
 ###### Hi everyone
-![Image of Mummytocat](https://octodex.github.com/images/mummytocat.gif)
+![Image of Mummytocat](https://octodex.github.com/images/yaktocat.png)
 ''' c
 # include <stdio.h>
 int main()
